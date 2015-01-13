@@ -1,5 +1,5 @@
 // ramas
-//micaelpereirasalgado
+
 package examencod;
 
 public class ExamenCOD {
